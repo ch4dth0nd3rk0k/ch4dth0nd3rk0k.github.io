@@ -1,0 +1,115 @@
+---
+include_mathjax: false
+---
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/favicon/apple-touch-icon.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/favicon/favicon-32x32.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/favicon/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/favicon/site.webmanifest" />
+        <title>{{ page.title }}</title>
+        <link href="/assets/css/base.css" rel="stylesheet" />
+        {% if page.include_mathjax -%}
+        <script>
+            MathJax = {
+                tex: {
+                    inlineMath: [
+                        ["$", "$"],
+                        ["\\(", "\\)"],
+                    ],
+                    displayMath: [
+                        ["$$", "$$"],
+                        ["\\[", "\\]"],
+                    ],
+                    macros: {
+                        textdollar: "\\$",
+                    },
+                    processEscapes: true,
+                },
+            };
+        </script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script
+            id="MathJax-script"
+            async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+        ></script>
+        {% endif -%} {% if page.layout == "article" -%}
+        <script>
+            document.addEventListener("DOMContentLoaded", (event) => {
+                const tables = document.querySelectorAll(".article table");
+                tables.forEach((table) => {
+                    // Create a new div element with the class "table-wrapper"
+                    const wrapper = document.createElement("div");
+                    wrapper.className = "table-wrapper";
+
+                    // Insert the wrapper before the table
+                    table.parentNode.insertBefore(wrapper, table);
+
+                    // Move the table into the wrapper
+                    wrapper.appendChild(table);
+                });
+            });
+        </script>
+        {% endif -%}
+        <style>
+            {%- include {{ page.custom_css }} %}
+        </style>
+    </head>
+    <body>
+        <header class="header">
+            <p><a href="/">Home</a></p>
+            <p><a href="{{ site.pages_dir }}/blog.html">Blog</a></p>
+            <p><a href="/contact/">Contact</a></p>
+        </header>
+        {{ content | replace_first: " ", "" }}
+        <div class="footer">
+            <div class="footer-left">
+                <p>All rights reserved © 2021 - <span id="year"></span></p>
+            </div>
+            <div class="footer-right"></div>
+        </div>
+    </body>
+    <script>
+        // get new date object
+        var dt = new Date();
+        // update copyright range to most recent year
+        document.getElementById("year").innerHTML = dt.getFullYear();
+    </script>
+    {% if page.custom_css == "index.css" -%}
+    <script>
+        // conditionally load high res image
+        document.addEventListener("DOMContentLoaded", function () {
+            var body = document.body;
+
+            // preload the high-resolution image
+            var highResImage = new Image();
+            highResImage.src =
+                "/assets/images/chad_the_conqueror.141k.75.webp";
+            highResImage.onload = function () {
+                // once the high-resolution image is loaded, apply it and fade it in
+                body.style.backgroundImage = "url('" + highResImage.src + "')";
+                body.classList.add("loaded");
+            };
+        });
+    </script>
+    {% endif -%}
+</html>

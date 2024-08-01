@@ -1,0 +1,104 @@
+body {
+    background-image: url("/assets/images/chad_the_conqueror.14k.0.webp");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: opacity 1s ease-in-out;
+    opacity: 0;
+}
+
+body.loaded {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+}
+
+.header a {
+    text-shadow: 2px 2px 1px black;
+}
+
+.intro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center; /* Center text horizontally */
+}
+
+.quote {
+    font-size: 44px;
+    text-align: center;
+    line-height: 2em;
+    font-weight: bold;
+    text-shadow:
+        2px 2px 0px black,
+        3px 3px 0px black;
+}
+
+.reference {
+    font-size: 14px;
+    text-align: center;
+    line-height: 2em;
+    text-shadow: 1px 1px 1px black;
+}
+
+@media screen and (max-width: 900px) {
+    .intro {
+        grid-column: 3 / span 11;
+        grid-row: 5;
+    }
+
+    .quote {
+        font-size: 33px;
+        text-align: center;
+        line-height: 2em;
+        font-weight: bold;
+        text-shadow:
+            2px 2px 0px black,
+            3px 3px 0px black;
+    }
+
+    .reference {
+        font-size: 10px;
+        text-align: center;
+        line-height: 2em;
+    }
+
+    .footer-left {
+        width: 100%;
+    }
+}
+
+@media screen and (max-height: 450px) {
+    body {
+        grid-template-rows: auto;
+    }
+
+    .intro {
+        grid-column: 3 / span 11;
+        grid-row: 5;
+    }
+
+    .quote {
+        font-size: 33px;
+        text-align: center;
+        line-height: 2em;
+        font-weight: bold;
+        text-shadow:
+            2px 2px 0px black,
+            3px 3px 0px black;
+    }
+
+    .reference {
+        font-size: 10px;
+        text-align: center;
+        line-height: 2em;
+    }
+
+    .footer-left {
+        width: 100%;
+    }
+}

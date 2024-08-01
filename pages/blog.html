@@ -1,0 +1,21 @@
+---
+layout: default
+title: Chad's Blog
+custom_css: blog.css
+---
+    <div class="bandeau">
+      <div id="name"><p>Articles<p></div>
+      <div id="date"><p>Date<p></div>
+    </div>
+    <ul class="content-scroll">
+    {%- for post in site.posts %}
+      <li class="tooltip projet">
+        <a href="{{ post.url }}">
+          <h2 class="blog-title">
+            {{ post.title }}
+          </h2>
+          <h2>{{ post.date | date: "%d/%m/%Y" }}</h2>
+        </a>
+      </li>
+    {%- endfor %}
+    </ul>

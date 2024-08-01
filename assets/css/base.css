@@ -1,0 +1,148 @@
+h1, h2, h3, h4, h5, p {
+  font-weight: normal;
+  font-style: normal;
+  margin:0;
+  color: #E4E6EB;
+}
+
+html{
+  overflow-x: hidden;
+}
+:root{
+  --margin-border: 3vw;
+  --margin-grid: 20px;
+}
+
+*,
+*:after,
+*:before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #E4E6EB;
+}
+
+a{
+  color: #E4E6EB;
+  text-decoration: none;
+}
+
+p{
+  font-size: 18px;
+  line-height: 1.3em;
+  color: #E4E6EB;
+}
+
+a:visited,
+p > a{
+  color: #E4E6EB;
+}
+
+li > .hili_ref,
+p > .hili_ref,
+p > .hili_ref:visited{
+  color: #8899A6;
+}
+
+li > .fn_ref,
+p > .fn_ref,
+li > .fn_ref:visited,
+li > .fn_ref:hover,
+p > .fn_ref:visited,
+p > .fn_ref:hover {
+  color: #FEC260;
+}
+
+a:hover,
+p > a:hover,
+li > .hili_ref:hover,
+p > .hili_ref:hover{
+  color: #800080;
+}
+
+h2{
+  font-size: 18px;
+  line-height: 1.3em;
+  color: #E4E6EB;
+}
+
+body{
+  display: grid;
+  font-family: "Courier", monospace;
+  grid-template-columns: var(--margin-border) var(--margin-grid) repeat(6, 6fr var(--margin-grid)) var(--margin-border);
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  background: #181818;
+}
+
+/*-----------------------FOOTER-----------------------*/
+.arrow{
+  height: 17px;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  padding: 15px var(--margin-border) 15px;
+  display: table;
+  width: 100%;
+  background-color: #22303C;
+}
+
+.footer-right h2:first-child, .footer-left h2:last-child{margin: 0;}
+
+.footer a{
+  text-decoration: none;
+}
+
+.footer-left,
+.footer-right{
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.footer-right h2{
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.footer-left h2{
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.footer-right{
+  right: 0;
+  text-align: right;
+}
+
+/* -----------------------HEADER-----------------------*/
+.header {
+  grid-column: 2/ span 13;
+  display: table;
+  height: 50px;
+  margin: 15px 0 50px 0;
+}
+
+.header p{
+  display: table-cell;
+  width: calc(100% / 3);
+  text-align: center;
+}
+
+.header p:first-child{
+text-align: left;
+}
+
+.header p:last-child{
+text-align: right;
+}

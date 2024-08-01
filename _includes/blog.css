@@ -1,0 +1,58 @@
+
+      .bandeau{
+        grid-column: 2/span 13;
+        border-bottom: #E4E6EB 1px solid;
+        text-align: right;
+      }
+
+      #name{
+        display: inline-block;
+        float: left;
+      }
+
+      #date{
+        display: inline-block;
+      }
+
+      .content-scroll{
+        grid-column: 2/span 13;
+        height: 70vh;
+        overflow-x: auto;
+      }
+
+      .projet{
+        width: 100%;
+        height: 50px;
+        text-align: right;
+        border-bottom: solid 1px #E4E6EB;
+        display: table;
+      }
+
+      .projet a{
+       display: table-cell;
+       vertical-align: middle;
+      }
+
+      .projet h2:first-child{
+        float: left;
+      }
+
+      .projet:hover h2{
+        font-style: italic;
+        color: #800080;
+      }
+
+      @media screen and (max-width: 900px) {
+        .footer-left{
+          width: 100%;
+        }
+
+        .blog-title {
+          text-align: center;
+        }
+
+        #date,
+        #name {
+          display: none;
+        }
+      }

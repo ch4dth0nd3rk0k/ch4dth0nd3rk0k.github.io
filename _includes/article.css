@@ -1,0 +1,176 @@
+
+      h1 {
+        color: #A7D129;
+        font-family: "Courier";
+        text-align: center;
+      }
+
+      h2 {
+        color: #A7D129;
+        font-family: "Courier";
+      }
+
+      .MathJax {
+          color: #E4E6EB;
+          overflow-x: auto;
+          overflow-y: hidden;
+      }
+
+      ul,
+      ol,
+      li {
+        list-style-type: disc;
+        padding-left: 10px; /* Override padding */
+        margin-left: 10px; /* Override margin */
+        color: #E4E6EB; /* Inherit color from parent */
+      }
+
+      ul,
+      ol {
+        padding-bottom: 20px;
+      }
+
+      .article > div,
+      .article > p {
+        margin: 0 0 20px 0; /* Add margin-bottom of 20px */
+      }
+
+      .article a {
+        color: #8899A6;
+      }
+
+      .article img {
+        display: block;
+        margin: 0 auto; /* This will horizontally center the image */
+        max-width: 100%; /* Ensure image doesn't exceed viewport width */
+        height: auto; /* Allow the height to adjust proportionally */
+      }
+
+      .highlight {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow-x: auto;
+      }
+
+      .highlight code {
+        color:  #F35F0E;
+        display: block;
+        box-sizing: border-box;
+        max-width: 100%;
+      }
+
+      .article table {
+        width: 100%; /* Ensure the table fills its container horizontally */
+        border-collapse: collapse; /* Collapse borders for cleaner appearance */
+      }
+
+      .article th, .article td {
+        color:  #F35F0E;
+        padding: 4px; /* Adjust padding as needed */
+        border: 1px solid #8899A6; /* Add border for each cell */
+        text-align: right; /* Center align cell content */
+        white-space: nowrap; /* Prevent wrapping for long content */
+        text-overflow: inherit; /* Display ellipsis (...) for truncated text */
+        max-width: 100%; /* Ensure the content doesn't exceed the cell's width */
+      }
+
+      .table-wrapper {
+        overflow-x: auto; /* Enable horizontal scrolling */
+        border: 1px solid #8899A6; /* Optional: Add a border */
+      }
+
+      code {
+        color:  #F35F0E;
+      }
+
+      textarea {
+        color: #F35F0E;
+        background: #181818;
+        border-color: #8899A6;
+        border-style: none;
+        font-family: "Courier", monospace;
+        max-width: 100%;
+        width: 100%;
+        white-space: pre-line;
+      }
+
+      button {
+        background: #181818;
+        border-color: #8899A6;
+        border-style: solid;
+        color: #8899A6;
+        cursor: pointer;
+        display: block;
+        font-size: 1rem;
+        font-family: "Courier", monospace;
+        margin: 5px auto;
+        padding: 4px 8px 4px;
+        text-align: center;
+      }
+
+      button:hover {
+        border-color: #800080;
+        color: #800080;
+      }
+
+      figure {
+        color:  #F35F0E;
+        text-align: left;
+      }
+
+      #references {
+        padding-left: 3em;
+        text-indent: -3em;
+        text-align: left;
+      }
+
+      .content-scroll{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center; /* Center text horizontally */
+        height: 70vh;
+        overflow-x: auto;
+        padding: 1em;
+      }
+
+      .article{
+        text-align: justify;
+        overflow-x: auto; /* Enable horizontal scrolling */
+        width: 100%; /* Set desired width */
+      }
+
+      @media screen and (max-width: 600px) {
+        .content-scroll {
+          grid-column: 1/span 16; /* Adjust the number of columns for smaller screens */
+          width: 90%; /* Set the width to occupy 90% of the viewport */
+          max-width: 100%; /* Limit the maximum width to prevent overflow */
+          overflow-x: auto; /* Enable horizontal scrolling if necessary */
+          position: static; /* Revert to the default position */
+          transform: none; /* Remove the transform */
+          margin: 0 auto; /* Center the content horizontally */
+        }
+      }
+
+      @media screen and (max-width: 1100px) {
+        .content-scroll{
+          grid-column: 1/span 16;
+          width: 90%; /* Set the width to occupy 90% of the viewport */
+          max-width: 100%; /* Limit the maximum width to prevent overflow */
+          height: 70vh;
+          overflow-x: auto;
+          padding: 1em;
+        }
+
+        .article{
+          grid-column: 1/span 16;
+          margin-bottom: 1.3em;
+          text-align: left;
+        }
+
+        .footer-left{
+          width: 100%;
+        }
+      }
