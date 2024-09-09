@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 pages_dir: /pages
-high_res_image: "/assets/images/diogenes_art.q75.webp"
-low_res_image: "/assets/images/diogenes_art.q0.webp"
+high_res_image: "/assets/images/chad_the_conqueror.141k.75.webp"
+low_res_image: "/assets/images/chad_the_conqueror.14k.0.webp"
 exclude:
   - CNAME
   - Dockerfile

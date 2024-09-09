@@ -1,0 +1,36 @@
+---
+layout: article
+title: What's Wrong with Modern Dating
+custom_css: article.css
+include_mathjax: true
+---
+## It's All Business
+My general experience with dating (especially *"online"*) is that it really is some kind of an *exchange* that interested parties are making. It's not really any different than a *prostitute* exchanging *sexual service* for *monetary gain* (i.e. the *client* pays for sex). Both parties are *exchanging* some resource *"A"* to get some of resource *"B"* and vice versa. Or if you prefer a less seedy analogy, it's equivalent to going to a car dealership, and spending $X$ dollars (if you're in the US) for your desired car. It's a transaction, and the interaction only serves to *facilitate* the transaction. There is no other *dimension* or *aspect* to the interaction: it's **pure business**.
+
+But why doesn't this *arrangement* work with dating? Well, because *"dating"* implies going on *dates*. And why do we go on dates? To get to know the other person. And why do we get to know them? Because we are attempting to *assess* what (if any) relationship is possible with said person. But how is that different than the *transaction* or *exchange* scenario I described above? Because a relationship is not a transaction, it is a **collaboration**.
+
+## Romance == Collaboration
+The *irony* of this all, is that the very people who most often claim to *want romance* (e.g. "looking for something real", "looking for a great guy", "wanting a real relationship") are actually seeking a transaction, not a collaboration. They are looking for the proverbial *"knight in shining armor"* to come save them from their unbearable, boring, lonely, and meaningless life. In other words, what these people want is a **FANTASY**. But as we know, [fantasy should stay fantasy](https://ch4dth0nd3rk0k.github.io/blog/2024/08/03/the-nature-of-romance).
+
+Real romance is about collaboration. It is not a fantasy. It is not about "oh my knight, my prince will come save me and everything will be perfect afterwards and I'll never be unhappy again." It's about **work**. When you are collaborators you are both putting in 100% (not 50/50) of your effort into the relationship. It is about **giving** not **getting**.
+
+## Cheap & Easy
+So then why do so many people (the vast majority) want these *dating transactions* instead of an actual *collaborative relationship* (i.e. a **real relationship**)? Because an actual relationship is hard work, and people are **lazy**. It's easier (or so it seems to the *unwise*) to find someone to *give you* what you need: some *hot girl* that you can easily sleep with, or some rich, handsome, successful man who will come in and *take care of you* so you never have to worry ever again.
+
+People simply don't want to do the *work*. They just don't. It's too hard, too complicated, too draining, and it takes too long. If I told you that it only takes 10 years following a daily simple plan to develop yourself into someone who can have a *real relationship* the vast majority of people would simply complain: "that's too long, is it really that necessary, that's boring, I don't have time for that ...."
+
+## Easy Come, Easy Go
+The unassailable truth about our reality, be it dating or any other endeavor, is that: you get out, what you put in. If you want something shallow and easy, or you're looking for someone to save you from your life (to make your fantasy come true), at best you're going to be disappointed. At worst, you're going to get **PLAYED**. Because the world is filled with people, that know this *fantasy* inside and out, and they can smell it on you from a mile away. And their game is taking advantage of people like you who have this *"fantasy"* weakness.
+
+But it you're willing to do the hard work (and it will be hard which is why most don't want to do it), then you will actually **earn** that real relationship, with someone who really cares, loves, and respects you and wants to be on your team, working together side by side with you. But you must **earn** that, and the cost is spending a lot of time learning how to be responsible for your own needs (i.e. *maturing*/*growing up*).
+
+## Moral
+While this post originally started by discussing the *state of modern dating*, in the end we arrived at an even more important lesson about life: only those who are worthy may enter. In life, you really do get out what you put in. If you put in *garbage*, well guess what: you're going to get garbage out. You don't want to do the work to be *responsible* for your needs? Ok then you're going to find another person who is just as irresponsible, immature, and *lazy* as yourself. And in the end, neither one of you in this *"exchange"* will be better off: you'll both be more drained, bitter, and angry about life than you were before. But that is exactly what you deserve: you are not worthy of the prize.
+
+A **real relationship** only opens its doors to those who are *worthy*. It must be earned. But if you do the work, if you take the path *less traveled*, you will earn that prize for yourself, and god speed to those of you out there ready and willing to pay that price.
+
+    
+    "Long is the way and hard, that out of Hell leads up to light."
+    ― John Milton, Paradise Lost
+    
+
