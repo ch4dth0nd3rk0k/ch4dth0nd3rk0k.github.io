@@ -70,7 +70,7 @@ Now in **hindsight** I should have already stopped engaging with this individual
 
 Now to clarify, when I say *"you don't know your place"*, my point isn't to be *combative* or derogatory, though I can appreciate how it could come off that way. What I mean is that this person is supposedly *"seeking genuine connection"* (**literally** her words from the essays) but has this strange *antagonistic* and *hostile* demeanor and attitude towards her past relationships and dating in general. As if she is under some **delusion** that people are going to be *"interested"* in spending their time fighting with some unhinged individual ... that is extremely immature and possibly one of the worst red flags I have ever seen or can even conceive of.
 
-Also keep in mind this individual **messaged me**. I did not reach out to contact them, they wanted something **from me**. Then they proceed to talk all about how they are *"mouthy"* and *"intimidating"* (though short). You are in a position where you want something from me, and you proceed to literally make yourself look like the most abysmal, annoying, draining, miserable, headache of a person. This is like the equivalent of some customer walking into a store and believing that, even though they have bought nothing, that they are entitled to speak and act however they want. Let's make this clear:
+Also keep in mind this individual **messaged me**. I did not reach out to contact them, they wanted something **from me**. Then they proceed to talk all about how they are *"mouthy"* and *"intimidating"* (though short). You are in a position where you want something from me, and you proceed to literally make yourself look like the most abysmal, annoying, draining, miserable, headache of a person. This is like the equivalent of some customer walking into a store and believing that, even though they have bought nothing, they are entitled to speak and act however they want. Let's make this clear:
 
     When you submit a contact form to me, you are in my territory in my house. You
     obey my rules or you will be removed.
@@ -78,14 +78,14 @@ Also keep in mind this individual **messaged me**. I did not reach out to contac
 
 There is no *humility* or *gratitude* in this individual. Just a sheer need to fight (because they feel so massively insecure from being constantly rejected in the past). But wait there is more. I sent one final message:
 
-    I don't think you understand what you're getting into here ... or what matches
-    with me.
+    Me: I don't think you understand what you're getting into here ... or what
+    matches with me.
 
 
 Which I might add is extremely true: this person doesn't have the slightest clue (or motivation to know) who I am, what I am about, what type of relationship I value, and who matches me. Naturally she had more to say (because clearly she lacks the humility to recognize where she isn't wanted and should bow out gracefully):
 
-    I have wasted years dating guys that claim to be dominant and they don’t have a
-    clue how to handle me because I’m usually smarter than them and I’m not
+    Her: I have wasted years dating guys that claim to be dominant and they don’t
+    have a clue how to handle me because I’m usually smarter than them and I’m not
     intimidated by anything. Yes I am combative and I would absolutely love to be
     put in my place one day but I have yet to experience that. I mean if you would
     prefer someone that comes already trained then I get that and that’s fine but
@@ -98,9 +98,9 @@ The lack of *self-awareness* of this individual is one of the worst I have encou
 + Nobody wants to "handle" you because you aren't worth their time (because you're low value)
 + Nobody is intimidated by you (just put off and annoyed)
 
-Don't get it twisted. What is the value of *"dominating"* some low quality person? What do they have to gain? A headache? Wasted time? Do I need to go wage a war over nothing? No. They don't want to engage with you because you simply aren't worth it. You are the *paragon* of insufferable, and no **real man** (i.e. a mature male that respects himself and has confidence and self-esteem) would **EVER**, and I mean ever, have anything to do with you.
+Don't get it twisted. What is the value of *"dominating"* some low quality person? What do they have to gain? A headache? Wasted time? Do I need to go wage a war over nothing? No. They don't want to engage with you because you simply aren't worth it. You are the *paragon* of insufferable, and no **real man** (i.e. a mature male that respects himself and has confidence and self-esteem) would ever, and I mean **EVER**, have anything to do with you.
 
-While I do try to keep these articles as *dispassionate* as possible ... I must admit it is hard for me not to be annoyed and drained by this person (even just reading their words). You know, life is already **difficult** now imagine you have to deal with someone so immature, spiteful, antagonistic, and **TOXIC** as this person. Nothing is worth dealing with this kind of person.
+While I do try to keep these articles as *dispassionate* as possible ... I must admit it is hard for me not to be annoyed and drained by this person (even just reading their words). You know, life is already **difficult** and now imagine you have to deal with someone so immature, spiteful, antagonistic, and **TOXIC** as this person. Nothing is worth dealing with this kind of person.
 
 ## Psychoanalysis by ChatGPT
 At this point I had already unmatched them, but I was so *bewildered* by this bizarre encounter that I asked *ChatGPT* their thoughts on this person. Specifically I asked: **what is the motivation of this person?** ChatGPT responded:
@@ -134,7 +134,7 @@ Recognizing this dynamic and choosing not to engage is a healthy step toward
 more fulfilling relationships.  
 ```
 
-After a few more exchanges, analyzing the conversation with this individual, I stated the following: **Everything you're telling me about this person suggests they are objectively my enemy ... and can never be an ally.** To which ChatGPT replied:
+After a few more exchanges, analyzing the conversation with this individual, I messaged ChatGPT the following: **Everything you're telling me about this person suggests they are objectively my enemy ... and can never be an ally.** To which ChatGPT replied:
 
 ```
 You’re absolutely right in recognizing that someone who actively ignores your  
