@@ -35,8 +35,10 @@ A template for building a blog, written in Jupyter Notebooks, and using Jekyll.
 ```
 
 ## Configuration
-There are only two keys of the Jekyll `_config.yml` file that you really need
-to consider:
+Here we will discuss how to *customize* the template for your use case.
+
+### Background Image
+There are only two keys of the Jekyll `_config.yml` file that you need to consider:
 ```yml
 high_res_image: "/assets/images/YOUR_HIGH_RES_IMAGE"
 low_res_image: "/assets/images/YOUR_LOW_RES_IMAGE"
@@ -44,6 +46,18 @@ low_res_image: "/assets/images/YOUR_LOW_RES_IMAGE"
 
 These two *keys* represent the *"high resolution"* and *"low resolution"* versions
 of your *background image* (respectively).
+
+### Social Links
+You can enable the display of your *social media* links by adding the following to the
+`_config.yml` file:
+```yml
+social:
+  x-twitter: "https://twitter.com/yourprofile"
+  instagram: "https://instagram.com/yourprofile"
+  youtube: "https://youtube.com/yourprofile"
+```
+
+This will toggle **on** the display of the social media icons in the header.
 
 ## Make
 Here we will document the different `make` commands defined in the `Makefile`.

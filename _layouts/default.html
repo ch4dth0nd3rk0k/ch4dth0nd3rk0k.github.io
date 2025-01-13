@@ -24,6 +24,12 @@ include_mathjax: false
             sizes="16x16"
             href="/favicon/favicon-16x16.png"
         />
+        {% if site.social -%}
+        <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+            rel="stylesheet"
+        />
+        {% endif -%}
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <title>{{ page.title }}</title>
         <link href="/assets/css/base.css" rel="stylesheet" />
@@ -79,9 +85,28 @@ include_mathjax: false
         <div class="background high-res"></div>
         {% endif -%}
         <header class="header">
+            {% if site.social %}
+            <p>
+                <a href="/">Home</a>
+                <a href="{{ site.pages_dir }}/blog.html">Blog</a>
+                <a href="/contact/">Contact</a>
+            </p>
+            <p class="social-media-links">
+                {% for item in site.social %} {% if item[1] %}
+                <a
+                    href="{{ item[1] }}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <i class="fab fa-{{ item[0] }}"></i>
+                </a>
+                {% endif %} {% endfor %}
+            </p>
+            {% else %}
             <p><a href="/">Home</a></p>
             <p><a href="{{ site.pages_dir }}/blog.html">Blog</a></p>
             <p><a href="/contact/">Contact</a></p>
+            {% endif %}
         </header>
 {{ content }}
         <div class="footer">
