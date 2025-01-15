@@ -3,6 +3,8 @@ permalink: /blog/:year/:month/:day/:title
 pages_dir: /pages
 high_res_image: "/assets/images/chad_the_conqueror.141k.75.webp"
 low_res_image: "/assets/images/chad_the_conqueror.14k.0.webp"
+default_image: "/assets/images/chad_the_conqueror.141k.75.webp"
+url: "https://chadthunderkok.com"
 social:
   x-twitter: "https://x.com/ch4dth0nd3rk0k"
   instagram: "https://instagram.com/chadwick_von_thunderkok"
