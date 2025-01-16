@@ -3,6 +3,7 @@ layout: article
 title: Sexuality, Masculinity & Chad
 custom_css: article.css
 include_mathjax: true
+image: "/assets/images/2024-08-16-sex-masc-chad_files/2024-08-16-sex-masc-chad_6_0.png"
 ---
 ## Motivation
 While normally I am an *extremely* private person, and do not discuss my *personal sexual preferences* (i.e. what I find attractive, what turns me on, what I find sexually satisfying or erotic), I felt it was necessary to be *brutally* honest (even *graphic*) about the topic of sex/sexuality. After reading this post, it will be virtually impossible to be confused, misled, or unclear about my sexual side.

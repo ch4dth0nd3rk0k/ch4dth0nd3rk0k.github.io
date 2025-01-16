@@ -3,6 +3,7 @@ layout: article
 title: Dating Wars - The Femmesplainer
 custom_css: article.css
 include_mathjax: true
+image: "/assets/images/2024-12-18-the-classic-femmesplainer_files/2024-12-18-the-classic-femmesplainer_1_0.png"
 ---
 
     

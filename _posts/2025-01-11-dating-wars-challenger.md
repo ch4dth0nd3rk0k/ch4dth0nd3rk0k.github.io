@@ -3,6 +3,7 @@ layout: article
 title: Dating Wars - The Challenge Seeker
 custom_css: article.css
 include_mathjax: true
+image: "/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_1_0.png"
 ---
 
     
