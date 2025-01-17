@@ -26,11 +26,13 @@ include_mathjax: false
             href="/favicon/favicon-16x16.png"
         />
         <link rel="manifest" href="/favicon/site.webmanifest" />
+        {% capture sanitized_excerpt %}{{ page.excerpt | strip_html | strip }}{%
+        endcapture %}
         <!-- Open Graph Meta Tags -->
         <meta property="og:title" content="{{ page.title | escape }}" />
         <meta
             property="og:description"
-            content="{% if page.excerpt %}{{ page.excerpt | strip_html | escape }}{% else %}{{ page.content | strip_html | truncate: 150 | escape }}{% endif %}"
+            content="{% if sanitized_excerpt.size > 0 %}{{ sanitized_excerpt }}{% else %}{{ page.content | remove: '!\[[^\]]*\]\([^\)]*\)' | strip_html | truncate: 150 | escape }}{% endif %}"
         />
         <meta property="og:url" content="{{ page.url | absolute_url }}" />
         <meta property="og:type" content="article" />
@@ -44,7 +46,7 @@ include_mathjax: false
         <meta name="twitter:title" content="{{ page.title | escape }}" />
         <meta
             name="twitter:description"
-            content="{% if page.excerpt %}{{ page.excerpt | strip_html | escape }}{% else %}{{ page.content | strip_html | truncate: 150 | escape }}{% endif %}"
+            content="{% if sanitized_excerpt.size > 0 %}{{ sanitized_excerpt }}{% else %}{{ page.content | remove: '!\[[^\]]*\]\([^\)]*\)' | strip_html | truncate: 150 | escape }}{% endif %}"
         />
         <meta
             name="twitter:image"
