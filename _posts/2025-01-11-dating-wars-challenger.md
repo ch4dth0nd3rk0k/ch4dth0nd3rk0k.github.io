@@ -3,11 +3,11 @@ layout: article
 title: Dating Wars - The Challenge Seeker
 custom_css: article.css
 include_mathjax: true
-image: "/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_1_0.png"
+image: "/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_3_0.png"
 ---
 
     
-![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_1_0.png)
+![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_3_0.png)
     
 
 
@@ -16,7 +16,7 @@ The type of person we will be discussing in this article is essentially everythi
 
 
     
-![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_3_0.png)
+![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_5_0.png)
     
 
 
