@@ -8,6 +8,7 @@ url: "https://chadthunderkok.com"
 social:
   x-twitter: "https://x.com/ch4dth0nd3rk0k"
   instagram: "https://instagram.com/chadwick_von_thunderkok"
+  youtube: "https://www.youtube.com/@chadwickvonthunderkok"
 exclude:
   - CNAME
   - Dockerfile
