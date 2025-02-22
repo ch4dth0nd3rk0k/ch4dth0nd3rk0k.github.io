@@ -20,7 +20,7 @@ The type of person we will be discussing in this article is essentially everythi
     
 
 
-Ever notice how people are on their best behavior when they want something? She is clearly capable of communicating sufficiently and at least presenting herself with maturity. So I went to look at the [contact form](https://chadthunderkok.com/contact) that she submitted, and that is really when the first **red flag** made itself known.
+Ever notice how people are on their best behavior when they want something? She is clearly capable of communicating sufficiently and at least presenting herself with maturity. So I went to look at the [contact form](https://chadthunderkok.com/dating-contact/) that she submitted, and that is really when the first **red flag** made itself known.
 
 ## The Mask Slips
 Other than her *political affiliation* being **liberal** (which I would expect is very unlikely to match with me), her submission was agreeable. It was when I arrived at the *"essay"* portion of the form that I started to suspect this individual is not going to match. Here are her two responses:

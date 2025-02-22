@@ -6,7 +6,7 @@ include_mathjax: false
 ---
 ## Introduction
 
-**Disclaimer**: *You must fill out the [contact form](https://chadthunderkok.com/contact/) before I will respond to any further messages. I cannot afford to invest time into anyone who has not completed this step. Thank you for your understanding.*
+**Disclaimer**: *You must fill out the [contact form](https://chadthunderkok.com/dating-contact/) before I will respond to any further messages. I cannot afford to invest time into anyone who has not completed this step. Thank you for your understanding.*
 
 **Seeking a Submissive Partner for a Deeply Dominant and Multifaceted Connection**
 
@@ -38,7 +38,7 @@ I am highly committed to fulfilling your fantasies of being dominated and pushin
 
 If you are serious about exploring both the raw intensity of my dominant nature
 and the possibility of a deeper, more intimate connection, fill out the [contact
-form](https://chadthunderkok.com/contact/). Until I receive the completed form, I will not
+form](https://chadthunderkok.com/dating-contact/). Until I receive the completed form, I will not
 respond to any further messages on this platform.
 
 I look forward to hearing from those who are ready to engage in a dynamic that
