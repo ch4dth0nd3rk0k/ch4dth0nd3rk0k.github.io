@@ -4,6 +4,12 @@ title: Dominus Profile
 custom_css: article.css
 include_mathjax: false
 ---
+
+    
+![png](/assets/images/2025-02-21-dom-profile_files/2025-02-21-dom-profile_1_0.png)
+    
+
+
 ## Introduction
 
 **Disclaimer**: *You must fill out the [contact form](https://chadthunderkok.com/dating-contact/) before I will respond to any further messages. I cannot afford to invest time into anyone who has not completed this step. Thank you for your understanding.*
