@@ -1,0 +1,38 @@
+name: tests
+
+on:
+  workflow_run:
+    workflows:
+      - "docker"
+    types:
+      - completed
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check GitHub Credentials
+        run: |
+          echo "Git Remotes: "
+          echo "$(git remote -v)"
+          echo "GITHUB_USER: ${{ github.actor }}"
+          echo "GITHUB_REPOSITORY: ${{ github.repository }}"
+          echo "GITHUB_SHA: ${{ github.sha }}"
+          echo "GITHUB_REF: ${{ github.ref }}"
+
+      - name: Build Tests Image
+        if: ${{ env.SKIP_BUILD != 'true' }}
+        run: make build-tests
+
+      - name: Check Dependencies
+        run: make check-deps-tests NOTTY=true
+
+      - name: Print Configuration
+        run: make print-config NOTTY=true
+
+      - name: Run Tests
+        run: make tests NOTTY=true USE_VOL=false USE_USR=false

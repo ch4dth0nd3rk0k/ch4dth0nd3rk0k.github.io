@@ -44,6 +44,12 @@
                 margin: 0 auto; /* This will horizontally center the image */
                 max-width: 100%; /* Ensure image doesn't exceed viewport width */
                 height: auto; /* Allow the height to adjust proportionally */
+                opacity: 0;
+                transition: opacity 0.8s ease-in-out;
+            }
+
+            .article img.loaded {
+                opacity: 1;
             }
 
             .highlight {

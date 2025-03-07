@@ -1,0 +1,91 @@
+            .content-scroll {
+                grid-column: 2 / span 13;
+                min-height: 70vh; /* Ensures enough height for content */
+                display: flex;
+                flex-direction: column;
+                align-items: center; /* Center horizontally */
+                justify-content: center; /* Center vertically */
+                padding: 10px; /* Avoid content touching edges */
+                overflow: hidden; /* Hide both x and y overflow */
+            }
+
+            .content-scroll ul {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+                width: 100%;
+                text-align: center;
+                overflow: hidden; /* Hide overflow within the list */
+            }
+
+            .content-scroll li {
+                margin: 10px 0;
+            }
+
+            .content-scroll a {
+                display: inline-block;
+                padding: 8px 25px; /* Adjusted padding for the links */
+                background-color: transparent; /* Matches background color */
+                color: #a7d129; /* Text color */
+                text-decoration: none; /* Removes underline */
+                border: 2px solid #a7d129; /* Border color matches text */
+                border-radius: 12px; /* Rounded edges */
+                font-weight: bold; /* Bold text */
+                transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+                max-width: 300px; /* Prevent links from stretching too wide */
+                width: auto; /* Flexible width for the links */
+                margin: 5px auto; /* Centers the links with spacing */
+            }
+
+            .content-scroll a:hover {
+                background-color: #800080; /* Purple background on hover */
+                color: inherit; /* White text on hover */
+                border-color: #800080; /* White border on hover */
+            }
+
+            @media screen and (orientation: landscape) {
+                /* Remove the grid layout from the body in landscape */
+                body {
+                    display: block; /* Remove grid layout */
+                    margin: 0;
+                    padding: 0;
+                    overflow-x: hidden;
+                    height: 100vh; /* Ensure full height to center content */
+                }
+
+                /* Update header to flexbox for proper alignment */
+                .header {
+                    display: flex;
+                    justify-content: space-between; /* Spread items across the width */
+                    align-items: center; /* Vertically center the items */
+                    width: 100%; /* Full width */
+                    height: 50px; /* Height of header */
+                    margin: 0; /* Remove margin to avoid shifting */
+                    padding: 10px 0; /* Optional padding */
+                }
+
+                .header p {
+                    margin: 0 20px; /* Space between items */
+                    text-align: center; /* Center text */
+                }
+
+                .header p:first-child {
+                    text-align: left; /* Align 'Home' to the left */
+                }
+
+                .header p:nth-child(2) {
+                    text-align: center; /* 'Blog' stays centered */
+                }
+
+                .header
+            }
+
+            @media screen and (max-width: 900px) {
+                .footer-left {
+                    width: 100%;
+                }
+
+                .blog-title {
+                    text-align: center;
+                }
+            }

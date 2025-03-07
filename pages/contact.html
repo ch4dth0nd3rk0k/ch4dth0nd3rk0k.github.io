@@ -1,0 +1,14 @@
+---
+layout: default
+title: CONTACT
+custom_css: contact.css
+---        
+        <ul class="content-scroll">
+          {% for contact in site.contacts %}
+            {% assign key = contact[0] %}
+            {% assign value = contact[1] %}
+            <li class="tooltip projet">
+              <a href="{{ value }}">{{ key | capitalize }} Contact</a>
+            </li>
+          {% endfor %}
+        </ul>
