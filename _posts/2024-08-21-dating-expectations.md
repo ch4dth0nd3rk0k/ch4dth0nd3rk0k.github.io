@@ -42,30 +42,6 @@ This is really a continuation of the previous sections on *financial support/dep
 ## Contact Form Submission
 Filling out a contact form does not in itself guarantee I will respond. I have to look over your submission and determine for myself whether it makes sense to initiate further contact. **DO NOT CONTACT ME** if you believe that you are entitled in anyway to any response or *"return"* for submitting a form. You are entitled to **nothing**.
 
-## Single Moms
-I am not interested in raising another man's children: **DO NOT CONTACT ME**.
-
-## Criminal History
-If you've ever served prison time for a serious crime: **DO NOT CONTACT ME**. I cannot afford the risk of dealing with someone with a criminal past, it's just too risky for me.
-
-## Abortion
-If you have ever had an abortion: **DO NOT CONTACT ME**.
-
-## Drugs / Alcohol
-If you use *recreational drugs* or have any kind of *substance abuse* issue: **DO NOT CONTACT ME**. While I do drink from time to time, I'm not interested in drugs of any kind.
-
-## Smoking
-Same rules about `Drugs/Alcohol` apply to smoking: **DO NOT CONTACT ME**.
-
-## Sexual Partner Rate
-Let's do a little math. What we want to figure out is, on average, how many sexual partners you have in a $10$ year period (i.e the *ten year rate* or $\text{TYR}$). Here is the formula:
-
-$$
-\text{TYR} = \frac{\text{bodies}}{\text{age}} \cdot 10
-$$
-
-If after evaluating the formula above using your *body count* and *age* and the value you get is greater than 1 (i.e. $\text{TYR} > 1$): **DO NOT CONTACT ME**. We won't match. My $\text{TYR}$ is less than 1 (i.e. $\text{TYR} < 1$). I don't easily have sexual partners, not even because I'm disinterested in sex, but because I have too many other things that I need to do and it's very difficult to get my time and energy. If you are not the same, we will **NOT** match.
-
 ## Long-Term Relationships
 If you have had sexual relationships (i.e. your body count is greater than zero: $\text{bodies} > 0$) but none of them were serious and committed relationships lasting at least $1$ year or more: **DO NOT CONTACT ME**.
 
@@ -130,7 +106,7 @@ I tend to keep my identity private, and hence I have no social media with pictur
 
 
     
-![png](/assets/images/2024-08-21-dating-expectations_files/2024-08-21-dating-expectations_35_0.png)
+![png](/assets/images/2024-08-21-dating-expectations_files/2024-08-21-dating-expectations_29_0.png)
     
 
 
