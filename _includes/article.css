@@ -17,6 +17,13 @@
                 font-size: 18px;
             }
 
+            blockquote p {
+              color: #f35f0e;
+              font-family: "Times New Roman";
+              margin: 1.5em 0;
+              padding: 0.5em 1em;
+            }
+
             .MathJax {
                 color: #e4e6eb;
                 overflow-x: auto;
