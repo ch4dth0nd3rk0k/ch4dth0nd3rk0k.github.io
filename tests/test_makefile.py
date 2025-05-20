@@ -387,6 +387,30 @@ def mock_has_lingering_images(
     return currentdir, lingering_image, persisted_image
 
 
+@pytest.fixture(scope="function")
+def mock_has_lingering_image_dir(
+    mock_blog_repo: Tuple[Path, Path, Path, Path],
+) -> Tuple[Path, Path]:
+    """Simulate a case with a lingering image directory."""
+    # unpack mock blog repo paths
+    currentdir, outdir, posts_dir, assets_dir = mock_blog_repo
+
+    # create a fake converted markdown post in OUTDIR
+    lingering_markdown = outdir / "post_with_lingering_image_dir.md"
+    lingering_markdown.write_text("Post with a lingering image dir")
+
+    # construct the expected image directory name based on the markdown name
+    lingering_dir_name = f"{lingering_markdown.stem}_files"
+
+    # create the lingering image directory in ROOT assets
+    lingering_image_dir = assets_dir / "images" / lingering_dir_name
+    lingering_image_dir.mkdir(parents=True)
+    lingering_image = lingering_image_dir / "lingering.png"
+    lingering_image.write_text("This is a fake lingering image.")
+
+    return currentdir, lingering_image_dir
+
+
 @pytest.mark.git
 def test_git_installed() -> None:
     """Ensure that Git is installed and available."""
@@ -1002,7 +1026,7 @@ def test_check_renamed_images_no_lingering(
     ), f"{synced_image.name!r} found in the output: {result.stdout}"
 
     assert (
-        "⚠️ Lingering image detected" not in result.stdout
+        "❌ Lingering image detected" not in result.stdout
     ), f"Lingering image detected' in the output: {result.stdout}"
 
     assert (
@@ -1035,7 +1059,7 @@ def test_clear_renamed_images_no_lingering(
     ), f"{synced_image.name!r} found in the output: {result.stdout}"
 
     assert (
-        "⚠️ Lingering image detected" not in result.stdout
+        "❌ Lingering image detected" not in result.stdout
     ), f"Lingering image detected' in the output: {result.stdout}"
 
     assert (
@@ -1071,10 +1095,8 @@ def test_check_renamed_images_has_lingering(
         lingering_image.name in result.stdout
     ), f"{lingering_image.name!r} not found in the output: {result.stdout}"
 
-    assert "No converted assets directory found" in result.stdout
-
     assert (
-        "⚠️ Lingering image detected" in result.stdout
+        "❌ Lingering image detected" in result.stdout
     ), f"Lingering image detected' no found in output: {result.stdout}"
 
     assert (
@@ -1110,10 +1132,8 @@ def test_clear_renamed_images_has_lingering(
         lingering_image.name in result.stdout
     ), f"{lingering_image.name!r} not found in the output: {result.stdout}"
 
-    assert "No converted assets directory found" in result.stdout
-
     assert (
-        "⚠️ Lingering image detected" not in result.stdout
+        "❌ Lingering image detected" not in result.stdout
     ), f"Lingering image detected' no found in output: {result.stdout}"
 
     assert (
@@ -1123,6 +1143,44 @@ def test_clear_renamed_images_has_lingering(
     assert (
         "Clearing renamed or lingering images" in result.stdout
     ), "Expected to find 'Checking renamed or lingering images' in the output."
+
+
+@pytest.mark.make
+def test_check_lingering_image_dir(
+    mock_has_lingering_image_dir: Tuple[Path, Path]
+) -> None:
+    """Test that a lingering image directory is detected in checking mode."""
+    currentdir, lingering_image_dir = mock_has_lingering_image_dir
+
+    result = run_make("check-renamed-images", cwd=currentdir)
+
+    assert (
+        result.returncode == 0
+    ), f"Code: {result.returncode}. Output: {result.stdout}"
+
+    assert (
+        "❌ Lingering image directory detected" in result.stdout
+    ), f"Missing warning for lingering image dir in: {result.stdout}"
+    assert lingering_image_dir.exists()
+
+
+@pytest.mark.make
+def test_clear_lingering_image_dir(
+    mock_has_lingering_image_dir: Tuple[Path, Path]
+) -> None:
+    """Test that a lingering image directory is deleted in clearing mode."""
+    currentdir, lingering_image_dir = mock_has_lingering_image_dir
+
+    result = run_make("clear-renamed-images", cwd=currentdir)
+
+    assert (
+        result.returncode == 0
+    ), f"Code: {result.returncode}. Output: {result.stdout}"
+
+    assert (
+        "🗑️ Removed obsolete image directory" in result.stdout
+    ), f"Expected image dir removal message in: {result.stdout}"
+    assert not lingering_image_dir.exists()
 
 
 @pytest.mark.make

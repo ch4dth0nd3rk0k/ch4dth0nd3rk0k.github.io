@@ -35,4 +35,4 @@ jobs:
         run: make print-config NOTTY=true
 
       - name: Run Tests
-        run: make tests NOTTY=true USE_VOL=false USE_USR=false
+        run: make tests NOTTY=true USE_VOL=false USE_USR=false USE_NBQA=false

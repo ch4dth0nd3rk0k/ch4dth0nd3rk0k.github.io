@@ -8,6 +8,13 @@
             h2 {
                 color: #a7d129;
                 font-family: "Courier";
+                font-size: 22px;
+            }
+
+            h3 {
+                color: #a7d129;
+                font-family: "Courier";
+                font-size: 18px;
             }
 
             .MathJax {
