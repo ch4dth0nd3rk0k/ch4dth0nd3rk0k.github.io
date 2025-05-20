@@ -5,22 +5,64 @@ custom_css: article.css
 include_mathjax: true
 ---
 ## Introduction
-Originally I had this long list of *do not contact IF* statements. It included various topics relevant to dating. But with time I have come to see that really all that matters is simply:
+> “Everything in the world is about sex, except sex. Sex is about power.”
+> — *Oscar Wilde*
 
-    Do you know your place.
+Let’s be clear from the start.
 
+You may have many admirable qualities — intelligence, kindness, strength, wit — those will absolutely matter. But the fundamental truth of this dynamic is simple:
+You are here to be conquered. To submit.
+To yield your body, your will, and your pleasure to me.
 
-## Relationship Roles
-I would say that everything about *relationships* comes down to *roles*. It does not matter whether the relationship is *personal* or *professional*. Each member of the relationship has their role. I find that people who know what their role is, are people you can develop a healthy relationship with. People who do not, are not.
+This isn’t just about chemistry or compatibility. It’s about power. Not symbolic power. Not occasional role play. Something real. Visceral. Lived.
 
-For example, in a business, you have sellers and buyers. The seller's role is to provide some *product* or *service* that *solves* some problem (i.e. food, auto maintenance, psychological therapy, carpentry, etc ...). The buyer's role is to *purchase* said product/service and must supply the *money* required.
+The core of every masculine/feminine relationship — no matter how modern, equal, or loving — rests on a sexual truth: one leads, one yields. One dominates, one surrenders. That polarity is the engine of attraction. Remove it, and you *extinguish* the flame.
 
-As long as both parties fulfill their roles, everyone is happy, and the relationship works as intended
+Or course I value respect, depth, and emotional connection, and if we connect, there may be laughter, warmth, intimacy — even partnership.
+But none of that changes your role.
+Sexually, you are here to surrender.
+That’s not a flaw or a weakness. It’s the point.
 
-## Moral
-We are here to invest the time and energy into building a personal relationship. We are both responsible for doing the necessary work to build and maintain such a relationship, and make no mistake it is **work**. Ask yourself:
+And if you understand that — not just in fantasy, but in lived reality — then we may have something worth building.
 
-    Do I really want to do the work required to build a relationship?
+## Required Sexual Compatibility
+Now we will clarify in *no uncertain terms* what we mean by *"surrender"* or *"submit."* Below is a list of **activities** and **dynamics** you **must** be capable of handling. These are **baseline expectations** — not negotiable preferences — for engagement.
 
+### Penetration
+* Vaginal penetration (standard and deep)
+* Anal penetration (with proper preparation)
+* Oral penetration:
+  + Light (tip/mouth entry)
+  + Moderate (controlled depth)
+  + Deep (throat penetration)
 
-I know my role. I am very comfortable doing the work required to build a relationship. I have a significant amount of experience building a successful relationship (at least a decade). I know what I want in general, and when it comes to dating I want to invest the time, and energy into building a relationship with the right person. I understand that it will not just be all *"rainbows"* and *"sunshine"* and that there will be plenty of times where it *will be very difficult and draining*. I can handle that, and I want **ALL** of that. I will gladly pay that price in order to build a relationship with the *right person*. Can you say the same?
+### Physical Handling
+* Hair pulling
+* Spanking (hand, paddle, etc.)
+* Light choking (airway not fully restricted)
+* Physical restraint (wrists, ankles, positional control)
+* Assertive handling / rough repositioning
+
+### Power & Control Dynamics
+* Verbal dominance and instruction
+* Obedience to direct commands
+* Discipline and behavioral correction
+* Roleplay involving clear power imbalance (e.g., teacher/student, boss/employee)
+* Primal chase / capture dynamics (hunter-prey style)
+
+### Stimulation & Orgasm Play
+* Manual stimulation (hands on genitals)
+* Digital penetration (fingers inside)
+* Use of toys or penetration devices
+* Orgasm control, edging, or denial
+
+### Psychological Play
+* Humiliation (verbal and/or positional; negotiated)
+* Consensual non-consent (CNC) scenarios (pre-negotiated and controlled)
+* Exposure to dominant behavior without coddling or aftercare unless earned
+
+### Environment & Context
+* Spontaneous sexual activity (when signaled)
+* Non-traditional locations (e.g., cars, secluded outdoors)
+* Sexual activity during travel
+* Discreet public sexual contact (as risk allows)
