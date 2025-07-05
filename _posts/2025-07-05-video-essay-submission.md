@@ -55,11 +55,11 @@ Record a **video** (minimum 5 minutes) in which you respond honestly and fully t
   <br><br>
 5. Can someone truly submit while still being influenced by others — family, friends, past partners, social media? Why or why not?
   <br><br>
-6. If your boyfriend/partner/Dominant asked you to remove certain influences from your life (people, platforms, habits), could you do it?
+6. If your boyfriend, partner, or Dominant asked you to remove certain influences from your life — people, platforms, or habits — could you do it? Why or why not?
   <br><br>
 7. What parts of yourself — your thinking, your habits, your body — would be the hardest to give up control over?
   <br><br>
-8. If you had to choose between being liked by others and being owned by one man, which would you choose — and why?
+8. If you had to choose between being accepted by others or fully devoting yourself to the leadership of your boyfriend, partner, or Dominant — which would you choose, and why?
 
 ## Things to Keep In Mind
 Here are a few points to help guide you when recording your *video essay*:
