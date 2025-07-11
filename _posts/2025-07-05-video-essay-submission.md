@@ -18,21 +18,26 @@ This is not:
 
 This is a vetting process for those who understand that personal connection, creative collaboration, and especially Dominant/submissive dynamics **must begin with orientation** — with clarity about **who** is leading and **who** is yielding.
 
-## Why This Video Essay Exists
+## Why A Video Essay
 Up until now, every person who has submitted the [dating contact](https://chadthunderkok.com/dating-contact/) form has been 
 seeking something **from** me — validation, attention, novelty, a feeling of being chosen.
 
-They are not drawn to submission itself: they are drawn to what they think they can gain **without** yielding anything real.
+They are not drawn to submission itself. They are drawn to what they think they can gain **without** yielding anything real:
 
-They say the words, but their orientation is off.<br>
-They want closeness without obedience.<br>
-Dialogue without hierarchy.<br>
-Intimacy without surrender.
++ They say the words, but their orientation is off.
+  <br><br>
++ They want closeness without obedience.
+  <br><br>
++ Dialogue without hierarchy.
+  <br><br>
++ Intimacy without surrender.
 
-That does not work here:
+That does **not work** here:
 
 + You cannot follow my leadership if you are still influenced by others — friends, exes, therapists, or your feed.
+  <br><br>
 + You cannot claim submission while negotiating for something else.
+  <br><br>
 + You cannot yield if you are still positioning.
 
 This video essay exists to expose that *mismatch* — between what I offer and what you are actually seeking.
