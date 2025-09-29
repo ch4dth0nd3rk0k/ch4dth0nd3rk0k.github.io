@@ -3,6 +3,7 @@ layout: article
 title: All About Chad
 custom_css: article.css
 include_mathjax: false
+published: false
 ---
 ## Seriously Serious
 I was thinking about what is the one word that would describe me most accurately, if I could only *choose* one word. What would that word be? Would it be *aggressive*, *savage*, or how about *erudite*, *intelligent*, or *innovative*? Maybe *intense* (I've been called intense quite a bit)? While I think all those words are relevant, there really is only one word that captures my *personality* and general *"vibe"*: `serious`. Everything about me can be understood through that single word:

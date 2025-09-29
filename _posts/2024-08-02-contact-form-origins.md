@@ -3,6 +3,7 @@ layout: article
 title: Origins of the Contact Form
 custom_css: article.css
 include_mathjax: false
+published: false
 ---
 ## It's All Business
 The story begins with my closest friend, who for many years had been struggling with *filtering* potential customers for her online business. For anyone who has ever dealt with running a business (on or off the *internet*), there is always a problem with finding the *right customers* (the people who are **serious** about buying your service/product). This was the exact problem she had: having her time/energy wasted by *potential customers* that are never going to buy.

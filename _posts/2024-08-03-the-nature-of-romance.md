@@ -3,6 +3,7 @@ layout: article
 title: The True Nature of Romance
 custom_css: article.css
 include_mathjax: false
+published: false
 ---
 ## The Motivation
 At this point having absorbed so much media, including media depicting *romance*, I have become keenly aware of a great lack of understanding about *what is romance*. I see quite often **MANY** profiles on various *social media* where the individual in question professes their *desire* for *genuine love*. Usually it sounds something like the following:

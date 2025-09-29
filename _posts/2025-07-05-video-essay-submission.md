@@ -3,6 +3,7 @@ layout: article
 title: The Submission Video Essay - Your First Step
 custom_css: article.css
 include_mathjax: false
+published: false
 ---
 ## Introduction
 Before any words are exchanged — before you get the chance to *talk* to me, connect with me, or explore something deeper — there is one threshold you must cross:
@@ -19,7 +20,7 @@ This is not:
 This is a vetting process for those who understand that personal connection, creative collaboration, and especially Dominant/submissive dynamics **must begin with orientation** — with clarity about **who** is leading and **who** is yielding.
 
 ## Why A Video Essay
-Up until now, every person who has submitted the [dating contact](https://chadthunderkok.com/dating-contact/) form has been 
+Up until now, every person who has submitted the [dating contact](https://chadthunderkok.com/dating-contact/) form has been
 seeking something **from** me — validation, attention, novelty, a feeling of being chosen.
 
 They are not drawn to submission itself. They are drawn to what they think they can gain **without** yielding anything real:

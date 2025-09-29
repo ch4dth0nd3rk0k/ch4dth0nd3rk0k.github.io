@@ -3,6 +3,7 @@ layout: article
 title: What's Wrong with Modern Dating
 custom_css: article.css
 include_mathjax: true
+published: false
 ---
 ## It's All Business
 My general experience with dating (especially *"online"*) is that it really is some kind of an *exchange* that interested parties are making. It's not really any different than a *prostitute* exchanging *sexual service* for *monetary gain* (i.e. the *client* pays for sex). Both parties are *exchanging* some resource *"A"* to get some of resource *"B"* and vice versa. Or if you prefer a less seedy analogy, it's equivalent to going to a car dealership, and spending $X$ dollars (if you're in the US) for your desired car. It's a transaction, and the interaction only serves to *facilitate* the transaction. There is no other *dimension* or *aspect* to the interaction: it's **pure business**.
@@ -29,8 +30,6 @@ While this post originally started by discussing the *state of modern dating*, i
 
 A **real relationship** only opens its doors to those who are *worthy*. It must be earned. But if you do the work, if you take the path *less traveled*, you will earn that prize for yourself, and god speed to those of you out there ready and willing to pay that price.
 
-    
+
     "Long is the way and hard, that out of Hell leads up to light."
     ― John Milton, Paradise Lost
-    
-

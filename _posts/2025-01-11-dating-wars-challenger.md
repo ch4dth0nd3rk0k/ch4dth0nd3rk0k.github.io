@@ -4,20 +4,21 @@ title: Dating Wars - The Challenge Seeker
 custom_css: article.css
 include_mathjax: true
 image: "/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_3_0.png"
+published: false
 ---
 
-    
+
 ![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_3_0.png)
-    
+
 
 
 ## Introduction
 The type of person we will be discussing in this article is essentially everything I am looking to avoid: *combative*, *hostile*, has a *power complex*, etc .... But it wasn't obvious at first exactly who this person was, and what was their motivation. In fact everything started rather *cordial* and mature:
 
 
-    
+
 ![png](/assets/images/2025-01-11-dating-wars-challenger_files/2025-01-11-dating-wars-challenger_5_0.png)
-    
+
 
 
 Ever notice how people are on their best behavior when they want something? She is clearly capable of communicating sufficiently and at least presenting herself with maturity. So I went to look at the [contact form](https://chadthunderkok.com/dating-contact/) that she submitted, and that is really when the first **red flag** made itself known.

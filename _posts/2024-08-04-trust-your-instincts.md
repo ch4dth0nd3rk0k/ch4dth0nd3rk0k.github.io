@@ -4,6 +4,7 @@ title: Trust Your Instincts
 custom_css: article.css
 include_mathjax: false
 image: /assets/images/2024-08-04-trust-your-instincts_files/2024-08-04-trust-your-instincts_4_0.png
+published: false
 ---
 ## The Context
 Our instincts are *highly* developed evolutionary features. They are not to be trivialized or discounted: they can save your life. In this specific instance they saved me from a very common (maybe the most common) mistake people make: letting the wrong person into your life. In this specific instance, I matched with a young lady from *Brazil* on `OkCupid`. At first I enjoyed reading her profile, and found it to be interesting. She sent me a message that was, in hindsight, extremely passive aggressive, but I was not immediately *clear* about her intention (and what my *instincts* were trying to tell me).
@@ -11,9 +12,9 @@ Our instincts are *highly* developed evolutionary features. They are not to be t
 So I messaged her, engaging her on her comment, and offering my sincere appreciation for the *content* of her profile. But after writing a few messages, and reflecting a bit more on this person (especially what I could sense about her from her pictures), I just felt very clearly that it wasn't in my best interest to engage further with this person. So I simply unmatched them. Keep in mind at this point she had not  responded to any of my messages (only a few minutes had transpired between when I sent my messages and when I *unmatched* this individual). I simply went about my day, not committing anymore time to the matter, and it quickly dissolved from my memory.
 
 
-    
+
 ![png](/assets/images/2024-08-04-trust-your-instincts_files/2024-08-04-trust-your-instincts_4_0.png)
-    
+
 
 
 ## A New Contact Form Submission

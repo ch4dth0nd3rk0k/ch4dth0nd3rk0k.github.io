@@ -3,11 +3,12 @@ layout: article
 title: Dominus Profile
 custom_css: article.css
 include_mathjax: false
+published: false
 ---
 
-    
+
 ![png](/assets/images/2025-02-21-dom-profile_files/2025-02-21-dom-profile_1_0.png)
-    
+
 
 
 ## Introduction
