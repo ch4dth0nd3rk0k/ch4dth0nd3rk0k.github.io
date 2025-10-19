@@ -19,7 +19,7 @@ ARG DCKRSRC
 
 # install necessary dependencies
 RUN apt-get update \
-    && apt-get install -y \
+    && apt-get install -y --no-install-recommends \
       bash \
       git \
       gnupg \
@@ -37,14 +37,15 @@ RUN apt-get update \
 RUN git config --global --add safe.directory '*'
 
 # Install Jekyll (no need for Bundler or a Gemfile)
-RUN gem install jekyll -v 4.2.0
+RUN gem install jekyll -v 4.3.3
 
-# download and install Google Chrome
-RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \
-    && echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" \
-    >> /etc/apt/sources.list.d/google-chrome.list \
+# download and install Google Chrome (modern keyrings-based method)
+RUN mkdir -p /etc/apt/keyrings \
+    && wget -qO /etc/apt/keyrings/google-linux-signing-key.gpg https://dl.google.com/linux/linux_signing_key.pub \
+    && echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/google-linux-signing-key.gpg] http://dl.google.com/linux/chrome/deb/ stable main" \
+       > /etc/apt/sources.list.d/google-chrome.list \
     && apt-get update \
-    && apt-get install -y google-chrome-stable \
+    && apt-get install -y --no-install-recommends google-chrome-stable \
     && rm -rf /var/lib/apt/lists/*
 
 # set workdir

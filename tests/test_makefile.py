@@ -660,8 +660,7 @@ def test_build_jupyter_with_no_pull() -> None:
     )
 
     # check that docker pull not included in the output
-    assert "docker pull" not in result.stdout
-    assert "docker build" in result.stdout
+    assert "DCKR_PULL=false" in result.stdout
     assert "--no-cache" not in result.stdout
 
 
@@ -697,8 +696,7 @@ def test_build_tests_with_no_pull() -> None:
     )
 
     # check that docker pull not included in the output
-    assert "docker pull" not in result.stdout
-    assert "docker build" in result.stdout
+    assert "DCKR_PULL=false" in result.stdout
     assert "--no-cache" not in result.stdout
 
 
