@@ -6,6 +6,7 @@ low_res_image: "/assets/images/chad_the_conqueror.14k.0.webp"
 default_image: "/assets/images/chad_the_conqueror.141k.75.webp"
 url: "https://chadthunderkok.com"
 contacts:
+  casting: "/casting-contact/"
   general: "/general-contact/"
   business: "/business-contact/"
 social:
