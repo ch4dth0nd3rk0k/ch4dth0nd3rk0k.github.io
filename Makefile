@@ -521,7 +521,7 @@ jekyll:
 	  docker run -d \
 	             --rm \
 	             --name ${JKLCTNR} \
-	             -v ${CURRENTDIR}:/srv/jekyll:Z \
+	             -v ${CURRENTDIR}:${DCKRSRC}:Z \
 	             -p 4000 \
 	             ${DCKRIMG_TESTS} \
 	               jekyll serve --host 0.0.0.0 && \
