@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+        <div class="content-scroll">
+            <div class="article">
+                <h1>{{ page.title }}</h1>
+                {% if page.version %}
+                <p class="doc-version">Version {{ page.version }}</p>
+                {% endif %}
+                {% if page.effective_date %}
+                <p class="doc-date">Effective Date: {{ page.effective_date }}</p>
+                {% endif %}
+                {{ content }}
+            </div>
+        </div>
